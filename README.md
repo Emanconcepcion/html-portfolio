@@ -24,8 +24,8 @@ This is a webpage and it does not require any installation. To visit the website
 
 ## Links
 
-- [GitHub](https://github.com/Emanconcepcion/personal-porfolio)
-- [Website](https://emanconcepcion.github.io/personal-porfolio/)
+- [GitHub](https://github.com/Emanconcepcion/html-portfolio)
+- [Website](https://emanconcepcion.github.io/html-portfolio/)
 
 ## Screenshots
 
